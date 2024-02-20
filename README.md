@@ -1,4 +1,4 @@
-# logoturtle-c
+# Logo-Turtle
 
 Second programming project - university - computer engineering (2nd period).
 
